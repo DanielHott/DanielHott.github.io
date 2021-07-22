@@ -6,3 +6,6 @@ h1 {
 .description {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.place {
+    font-style: italic;
+}
