@@ -9,3 +9,29 @@ h1 {
 .place {
     font-style: italic;
 }
+.prim-hab-1{
+    font-size: 25px;
+    font-weight: 600;
+}
+.prim-hab-2 {
+    font-size: 24px;
+}
+.prim-hab-3 {
+    font-size: 23px;
+    font-weight: 600;
+}
+.sec-hab-1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.sec-hab-2 {
+    font-size: 19px;
+}
+.sec-hab-3 {
+    font-size: 18px;
+    font-weight: 600;
+
+}
+.sec-hab-4 {
+    font-size: 17px;    
+}
