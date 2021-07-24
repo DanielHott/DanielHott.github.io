@@ -6,9 +6,6 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-ul li:nth-child(even) {
-    background-color: khaki;
-}
 .description {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -19,6 +16,7 @@ ul li:nth-child(even) {
     font-size: 25px;
     font-weight: 600;
     font-style: italic;
+    background-color: rgb(19, 189, 201);
 }
 .prim-hab-2 {
     font-size: 24px;
@@ -27,24 +25,25 @@ ul li:nth-child(even) {
     font-size: 23px;
     font-weight: 600;
     font-style: italic;
+    background-color: rgb(19, 189, 201);
 }
 .sec-hab-1 {
     font-size: 20px;
-  
 }
 .sec-hab-2 {
     font-size: 19px;
     font-weight: 600;
     font-style: italic;
+    background-color: rgb(19, 189, 201);
 }
 .sec-hab-3 {
     font-size: 18px;
-
 }
 .sec-hab-4 {
     font-size: 17px;   
     font-weight: 600; 
     font-style:italic;
+    background-color: rgb(19, 189, 201);
 }
     
 .image-conteiner {
