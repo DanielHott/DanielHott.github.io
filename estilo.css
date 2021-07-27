@@ -1,11 +1,22 @@
 body {
-    background-color: #c6ffff;
+    background-color: #fafafa;
+    padding:5%;
 }
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.description {
+.titulo-1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 3px solid black;
+}
+ul li:nth-child(even) {
+    background-color: rgb(0, 0, 0);
+}
+.descricao {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    border-left: 30px;
 }
 .place {
     font-style: italic;
@@ -13,6 +24,7 @@ h1 {
 .prim-hab-1{
     font-size: 25px;
     font-weight: 600;
+    font-style: italic;
 }
 .prim-hab-2 {
     font-size: 24px;
@@ -20,6 +32,46 @@ h1 {
 .prim-hab-3 {
     font-size: 23px;
     font-weight: 600;
+    font-style: italic;
+}
+.sec-hab-1 {
+    font-size: 20px;
+  
+}
+.sec-hab-2 {
+    font-size: 19px;
+    font-weight: 600;
+    font-style: italic;
+}
+.sec-hab-3 {
+    font-size: 18px;
+
+}
+.sec-hab-4 {
+    font-size: 17px;   
+    font-weight: 600; 
+    font-style:italic;
+}
+    
+.image-conteiner {
+    border: 3px solid rgb(0, 0, 0);
+    height: 430px;
+}
+#foto {
+    float: left;
+    height: 420px;
+    padding: 5px;
+    background-color: rgb(0, 0, 0);
+    margin-right: 10px;
+}
+.escolaridade {
+    margin-top: 10px;
+    background-color: black;
+    color:rgb(255, 255, 255);
+    border-radius: 30px;
+    text-align: center;
+    border: 3px solid black;
+    border-bottom: 0px;
 }
 .sec-hab-1 {
     font-size: 20px;
