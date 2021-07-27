@@ -2,6 +2,9 @@ body {
     background-color: #fafafa;
     padding:5%;
 }
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .titulo-1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -68,5 +71,20 @@ ul li:nth-child(even) {
     border-radius: 30px;
     text-align: center;
     border: 3px solid black;
-    border-bottom: 0px
+    border-bottom: 0px;
+}
+.sec-hab-1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.sec-hab-2 {
+    font-size: 19px;
+}
+.sec-hab-3 {
+    font-size: 18px;
+    font-weight: 600;
+
+}
+.sec-hab-4 {
+    font-size: 17px;    
 }
