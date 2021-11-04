@@ -1,6 +1,7 @@
 {
   "name": "daniel-hott",
   "version": "0.1.0",
+  "homepage": "danielhott.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
@@ -12,7 +13,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://danielhott.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
