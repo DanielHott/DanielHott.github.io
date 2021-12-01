@@ -28,7 +28,8 @@ class Main extends React.Component {
                     <p>Olá! Me chamo Daniel, tenho 22 anos, moro no Brasil na cidade de Volta Redonda/RJ.
                     Sou apaixonado por música, esportes e tecnologia. Espere de mim muita dedicação, empatia
                     e bom humor. Sempre pronto para aprender e desenvolver um bom trabalho. Fique a vontade para 
-                    conhecer meus repositórios com as tecnologias que venho testando e aprendendo a cada dia!</p>
+                    conhecer meus repositórios com as tecnologias que venho testando e aprendendo a cada dia!
+                    Todos os repositórios possuem um site no Readme para que conheça meu trabalho.</p>
                     <h3>Minha trajetória na programação:</h3>
                     <p>Apaixonado por programação, tive meu primeiro contato programando servers de jogos em 2012.
                         Iniciei Licenciatura em Física em 2017 e nesse período tive mais certeza de que
