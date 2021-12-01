@@ -7,6 +7,8 @@ header {
   color: aliceblue;
 }
 
+
+
 #img-react {
   width: 200px;
 }
@@ -27,6 +29,7 @@ header {
 }
 
 #main-text {
+  margin-top: -20px;
   padding: 20px;
   font-size: medium;
   text-align: justify;
@@ -35,4 +38,39 @@ header {
 
 #about-me {
   padding-top: -40px;
+}
+
+#footer_text {
+  background-color: #222222;
+  color: white;
+  display: flex;
+  justify-content: center;
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+
+#play-trivia {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+#game {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#load {
+  display: flex;
+  justify-content: center;
 }
