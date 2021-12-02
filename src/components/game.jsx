@@ -107,7 +107,7 @@ class Game extends React.Component {
             <h4 data-testid="question-category">{ category }: </h4>
             <h4 data-testid="question-text" dangerouslySetInnerHTML={innerHTML(question)}>
             </h4>
-            {incorrectAnswers.map((alternative, index) => {
+            {incorrectAnswers.map((alternative, index) => () => {
                 if (alternative === correct) {
                      return (<button
                     type="button"
