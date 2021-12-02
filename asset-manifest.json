@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/danielhott.github.io/static/css/main.59b3f6c6.chunk.css",
-    "main.js": "/danielhott.github.io/static/js/main.6a0962e3.chunk.js",
-    "main.js.map": "/danielhott.github.io/static/js/main.6a0962e3.chunk.js.map",
-    "runtime-main.js": "/danielhott.github.io/static/js/runtime-main.c1b43c9e.js",
-    "runtime-main.js.map": "/danielhott.github.io/static/js/runtime-main.c1b43c9e.js.map",
-    "static/js/2.4e68a475.chunk.js": "/danielhott.github.io/static/js/2.4e68a475.chunk.js",
-    "static/js/2.4e68a475.chunk.js.map": "/danielhott.github.io/static/js/2.4e68a475.chunk.js.map",
-    "static/js/3.8a65acce.chunk.js": "/danielhott.github.io/static/js/3.8a65acce.chunk.js",
-    "static/js/3.8a65acce.chunk.js.map": "/danielhott.github.io/static/js/3.8a65acce.chunk.js.map",
-    "index.html": "/danielhott.github.io/index.html",
-    "static/css/main.59b3f6c6.chunk.css.map": "/danielhott.github.io/static/css/main.59b3f6c6.chunk.css.map",
-    "static/js/2.4e68a475.chunk.js.LICENSE.txt": "/danielhott.github.io/static/js/2.4e68a475.chunk.js.LICENSE.txt",
-    "static/media/danielHott.a37e2c36.png": "/danielhott.github.io/static/media/danielHott.a37e2c36.png"
+    "main.css": "/static/css/main.a172054d.chunk.css",
+    "main.js": "/static/js/main.b46f5f87.chunk.js",
+    "main.js.map": "/static/js/main.b46f5f87.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dea74404.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dea74404.js.map",
+    "static/js/2.ce9e8c81.chunk.js": "/static/js/2.ce9e8c81.chunk.js",
+    "static/js/2.ce9e8c81.chunk.js.map": "/static/js/2.ce9e8c81.chunk.js.map",
+    "static/js/3.f5bf2e89.chunk.js": "/static/js/3.f5bf2e89.chunk.js",
+    "static/js/3.f5bf2e89.chunk.js.map": "/static/js/3.f5bf2e89.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a172054d.chunk.css.map": "/static/css/main.a172054d.chunk.css.map",
+    "static/js/2.ce9e8c81.chunk.js.LICENSE.txt": "/static/js/2.ce9e8c81.chunk.js.LICENSE.txt",
+    "static/media/danielHott.a37e2c36.png": "/static/media/danielHott.a37e2c36.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1b43c9e.js",
-    "static/js/2.4e68a475.chunk.js",
-    "static/css/main.59b3f6c6.chunk.css",
-    "static/js/main.6a0962e3.chunk.js"
+    "static/js/runtime-main.dea74404.js",
+    "static/js/2.ce9e8c81.chunk.js",
+    "static/css/main.a172054d.chunk.css",
+    "static/js/main.b46f5f87.chunk.js"
   ]
 }
