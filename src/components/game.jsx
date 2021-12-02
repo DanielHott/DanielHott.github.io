@@ -54,8 +54,8 @@ class Game extends React.Component {
   changeColor() {
     const wrongs = document.querySelectorAll('.wrong');
     const correct = document.querySelector('.correct');
-    wrongs.forEach((element) => { element.style.border = '3px solid rgb(255, 0, 0)'; });
-    correct.style.border = '3px solid rgb(6, 240, 15)';
+    wrongs.forEach((element) => { element.style.border = '1px solid rgb(255, 0, 0)'; });
+    correct.style.border = '2px solid rgb(6, 240, 15)';
     this.setState({ isButtonVisible: true });
   }
 
