@@ -1,15 +1,16 @@
 import React from "react";
-
-const URL_JS = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png'
+import dheu from './dheu.png'
 class Header extends React.Component {
     render() {
         return (
             <div>
-                <header>
-                <h1>Daniel Hott</h1>
-                <h3>Desenvolvedor Front-End</h3>
-                <img src="https://reactjs.org/logo-og.png" alt="react" id="img-react" />
-                <img src={ URL_JS } alt="Js" id="img-js" />
+                <header className="header">
+                <img src={ dheu } alt="" width="70" />
+                <div>
+                    <a href="#projects" className="links">Projetos</a>
+                    <a href="#contact" className="links">  Contato</a>
+                    <a href="https://www.linkedin.com/in/danielhott/" className="links">  Curriculo</a>
+                </div>
                 </header>
             </div>
         )
