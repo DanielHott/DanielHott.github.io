@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.31602ad3.chunk.css",
-    "main.js": "/static/js/main.5bd1ae26.chunk.js",
-    "main.js.map": "/static/js/main.5bd1ae26.chunk.js.map",
+    "main.css": "/static/css/main.da4b98ee.chunk.css",
+    "main.js": "/static/js/main.452e7155.chunk.js",
+    "main.js.map": "/static/js/main.452e7155.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6d16258a.js",
     "runtime-main.js.map": "/static/js/runtime-main.6d16258a.js.map",
     "static/js/2.71476939.chunk.js": "/static/js/2.71476939.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.8a65acce.chunk.js": "/static/js/3.8a65acce.chunk.js",
     "static/js/3.8a65acce.chunk.js.map": "/static/js/3.8a65acce.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.31602ad3.chunk.css.map": "/static/css/main.31602ad3.chunk.css.map",
+    "static/css/main.da4b98ee.chunk.css.map": "/static/css/main.da4b98ee.chunk.css.map",
     "static/js/2.71476939.chunk.js.LICENSE.txt": "/static/js/2.71476939.chunk.js.LICENSE.txt",
     "static/media/astronautinha.d313d7c9.png": "/static/media/astronautinha.d313d7c9.png",
     "static/media/dheu.1e5c83e4.png": "/static/media/dheu.1e5c83e4.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.6d16258a.js",
     "static/js/2.71476939.chunk.js",
-    "static/css/main.31602ad3.chunk.css",
-    "static/js/main.5bd1ae26.chunk.js"
+    "static/css/main.da4b98ee.chunk.css",
+    "static/js/main.452e7155.chunk.js"
   ]
 }
